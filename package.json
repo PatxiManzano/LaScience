@@ -1,0 +1,23 @@
+{
+  "name": "lascience",
+  "version": "1.0.0",
+  "description": "Site qui parle de theory scientifique",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/html/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatxiManzano/LaScience.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatxiManzano/LaScience/issues"
+  },
+  "homepage": "https://github.com/PatxiManzano/LaScience#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
